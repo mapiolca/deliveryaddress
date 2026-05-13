@@ -3,10 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## Unreleased
 
-- NEW : Add substitution variables for external and internal SHIPPING contacts.
 
 ## RELEASE 1.9
 
+- NEW : Add substitution variables for external and internal SHIPPING contacts. *13/05/2026* - 1.9.1
 - FIX : Compat v20
   Changed Dolibarr compatibility range to 16 min - 20 max - *28/07/2024* - 1.9.0
 
