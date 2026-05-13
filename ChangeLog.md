@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## Unreleased
 
-
+- NEW : Add substitution variables for external and internal SHIPPING contacts.
 
 ## RELEASE 1.9
 
