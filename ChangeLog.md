@@ -6,7 +6,9 @@ All notable changes to this project will be documented in this file.
 
 ## RELEASE 1.9
 
-- NEW : Add substitution variables for external and internal SHIPPING contacts. *13/05/2026* - 1.9.1
+- NEW : Add eight substitution variables for external and internal SHIPPING contacts: full name, postal address, phone and email. *13/10/2026* - 1.9.1
+  Missing contacts and empty fields produce empty substitution values. Internal and external contacts are resolved separately.
+  After updating, deploy both the module descriptor and the substitutions library, then reactivate the module in each affected entity while preserving its settings.
 - FIX : Compat v20
   Changed Dolibarr compatibility range to 16 min - 20 max - *28/07/2024* - 1.9.0
 
